@@ -1,2 +1,4 @@
 # RRIT-BATCH-01
-This is my first repository
+This is my first repo
+<br>
+author-shajiya
